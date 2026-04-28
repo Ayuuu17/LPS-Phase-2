@@ -1,10 +1,3 @@
-/*
-  Lottery Purchase System (LPS) - Web App Prototype
-  Vercel-ready static app. Data persists in the browser with localStorage.
-  This is suitable for the CS3365 Phase 2 GUI/demo requirement. A real lottery
-  deployment would require a server-side database, real authentication, and real payment APIs.
-*/
-
 const STORAGE_KEY = "lps_web_app_v3";
 const MAX_TICKETS_PER_ORDER = 10;
 let route = "home";
