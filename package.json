@@ -1,0 +1,13 @@
+{
+  "name": "lps-final-aligned-requirements",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lottery Purchase System Phase 2 web app prototype",
+  "scripts": {
+    "start": "npx serve .",
+    "check": "node --check app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
